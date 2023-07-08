@@ -120,9 +120,9 @@ global.IMG_BLOCKER = ["xxx","sex","mia"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = 'jQMdY6naqGexL03fEkW4T3BlbkFJDDSgqcfnWxAiIrgXi26S'
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['120363161774144053@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+global.GROUP_LINK = 'https://chat.whatsapp.com/DjyZDsXULUG3kTUsK5CLU4'
 /*
 
    🍃 OTHER 🍃
